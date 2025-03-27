@@ -30,3 +30,12 @@ This project demonstrates a scalable monitoring solution using Prometheus, Alert
 - Memory Usage
 - Disk Usage
 - Custom Metrics
+
+
+## 📸 Screenshots
+
+### Prometheus Targets
+![Prometheus Targets](screenshots/prometheus-targets.png)
+
+### Custom Metrics
+![Custom Metrics](screenshots/custom-metrics.png)
